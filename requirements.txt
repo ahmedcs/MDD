@@ -1,0 +1,7 @@
+matplotlib
+jupyter
+pandas
+timeout-decorator
+eventlet
+wandb==0.8.35
+keras==2.2.4
